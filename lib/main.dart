@@ -1,5 +1,6 @@
 import 'package:ardent_web_demo/service_locator.dart';
 import 'package:flutter/material.dart';
+
 import 'core/config/routes/app_routes.dart';
 
 Future<void> main() async {
